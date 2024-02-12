@@ -5,6 +5,5 @@ Python script for generating clouds in Blender. It offers the possibility to cre
 
 The script is contains step-by-step comments, ensuring users can understand the cloud generation process with clarity and ease.
 
-<img width="320" alt="Captura de pantalla 2024-02-12 a las 13 46 00" src="https://github.com/silviaarellanogarcia/Blender-Cloud-Generator/assets/63227641/46b71a30-8ea4-4ccc-8cbb-8f5cbd28eea2">
+<img width="904" alt="Captura de pantalla 2024-02-12 a las 19 43 17" src="https://github.com/silviaarellanogarcia/Blender-Cloud-Generator/assets/63227641/89831db3-10ce-4279-8e36-411851334916">
 
-<img width="350" alt="Captura de pantalla 2024-02-12 a las 14 48 44" src="https://github.com/silviaarellanogarcia/Blender-Cloud-Generator/assets/63227641/b5456464-8376-4236-965b-3fc92e872d92">
